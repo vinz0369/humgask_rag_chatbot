@@ -1,5 +1,3 @@
-# 📚 Chatbot Hỏi Đáp Tài Liệu PDF
-
 ## 🔥 Giới thiệu
 Dự án này là một chatbot hỏi đáp sử dụng LangChain, FAISS và Mistral AI để tạo cơ sở dữ liệu vector và thực hiện tìm kiếm ngữ nghĩa.
 
